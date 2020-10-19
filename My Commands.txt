@@ -1,0 +1,16 @@
+T24 Commands
+
+T24 Browser
+1. RECORD.LOCK L
+2. SPF-> SYSTEM
+3. HELPTEXT.MENU
+
+
+Jbase Sell
+1. JED <FODER_NAME> <FILE.NAME>
+2. FI //Save and ex
+3. EX //EX
+4. BI //Fomat basic code
+5. LIST <RECORD>
+
+
